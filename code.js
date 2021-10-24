@@ -33,3 +33,5 @@ $('div[style*="blob"]').each(function() {
 		descarga($(this).css("background-image").replace("url(\"", "").replace("\")", ""));
 });	
 } 
+
+// Probando VSCODE
